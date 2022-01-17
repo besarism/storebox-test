@@ -1,0 +1,41 @@
+{
+  "expMonth": {
+    "errorInvalid":"Invalid month",
+    "label":"Maned",
+    "placeholder": "MM"
+  },
+  "expYear": {
+    "label":"År",
+    "placeholder":"YY",
+    "errorExpired":"Card has something else"
+  },
+  "error": {
+    "generalError":"Error, please try again",
+    "maxCards":"You have added maximum number of allowed cards to your user",
+    "accountVerification": "Card could not be verified. It may be blocked or invalid"
+  },
+  "btn": {
+    "save":"NEXT"
+  },
+  "accountno": {
+    "errorInvalid":"Invalid account number",
+    "errorMinLength":"Has to be 11 digits",
+    "label":"Account number",
+    "placeholder":"Account number",
+    "duplicate":"Account number already exists"
+  },
+  "bankAccept": {
+    "errorInvalid":"Invalid account number",
+    "errorMinLength":"Has to be 11 digits",
+    "label":"Account number",
+    "placeholder":"Account number",
+    "duplicate":"Account number already exists"
+  },
+  "card": {
+    "errorInvalid":"Invalid card number",
+    "unsupportedType":"Unsupported card type",
+    "label":"Card number",
+    "placeholder":"Card number",
+    "duplicate":"Card is already registered"
+  }
+}
