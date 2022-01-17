@@ -32,7 +32,7 @@
     "duplicate":"Account number already exists"
   },
   "card": {
-    "errorInvalid":"Invalid card number",
+    "errorInvalid":"Invalid card number Krsitine",
     "unsupportedType":"Unsupported card type",
     "label":"Kristine",
     "placeholder":"Card number",
