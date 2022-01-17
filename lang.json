@@ -34,7 +34,7 @@
   "card": {
     "errorInvalid":"Invalid card number",
     "unsupportedType":"Unsupported card type",
-    "label":"Card number",
+    "label":"Kristine",
     "placeholder":"Card number",
     "duplicate":"Card is already registered"
   }
