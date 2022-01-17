@@ -15,7 +15,7 @@
     "accountVerification": "Card could not be verified. It may be blocked or invalid"
   },
   "btn": {
-    "save":"NEXT"
+    "save":"Bekreft Kort"
   },
   "accountno": {
     "errorInvalid":"Invalid account number",
